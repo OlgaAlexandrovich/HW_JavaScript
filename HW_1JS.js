@@ -26,4 +26,4 @@ if (age_1 < age_2) {
    console.log("Keep calm and look Culture channel")
 } else {
    console.log("Technical work")
-}
+} 
